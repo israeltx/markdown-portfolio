@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Stuff to study to become a _Front-end Dev_
+- **JavaScript**
+- CSS
+- HTML
