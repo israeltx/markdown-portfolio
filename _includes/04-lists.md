@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## Things I love
+:shower: Hot showers
+:tv: Netflix and Chill
+:sandwich: Kebabs
